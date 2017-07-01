@@ -4,6 +4,9 @@
 ### Short Description
 In this 2D Java game, relive the classic arcade game Pong!
 
+### How to Play Game
+Open *Pong.jar* to start the game. This will take you to the main menu.
+
 ### Objective
 Use the paddles to hit the ball into the opponent's goal. The first player to score nine points wins.
 

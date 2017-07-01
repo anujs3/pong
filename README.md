@@ -5,7 +5,13 @@
 In this 2D Java game, relive the classic arcade game Pong! The game features music and sound effects.
 
 ### How to Play Game
-Open *Pong.jar* to start the game. This will take you to the main menu.
+Open *Pong.jar* inside the *Pong* folder to start the game. This will take you to the main menu.
+
+Alternatively, you can open the game in command prompt:
+
+```java
+java -jar Pong/Pong.jar
+```
 
 ### Objective
 Use the paddles to hit the ball into the opponent's goal. The first player to score nine points wins.

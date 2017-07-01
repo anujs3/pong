@@ -2,7 +2,7 @@
 ## A Computer Game Written in Java
 
 ### Short Description
-In this 2D Java game, relive the classic arcade game Pong!
+In this 2D Java game, relive the classic arcade game Pong! The game features music and sound effects.
 
 ### How to Play Game
 Open *Pong.jar* to start the game. This will take you to the main menu.
